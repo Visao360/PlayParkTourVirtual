@@ -1,4 +1,7 @@
 {
+ "name": "PLAYPARK",
+ "background_color": "#FB8B04",
+ "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "PLAYPARK",
- "display": "fullscreen",
- "theme_color": "#FB8B04",
  "start_url": "index.htm?installed=true",
- "background_color": "#FB8B04"
+ "theme_color": "#FB8B04"
 }
