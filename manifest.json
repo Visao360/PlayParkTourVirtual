@@ -38,7 +38,7 @@
  ],
  "name": "PLAYPARK",
  "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
  "theme_color": "#FB8B04",
- "background_color": "#FB8B04",
- "start_url": "index.htm?installed=true"
+ "background_color": "#FB8B04"
 }
